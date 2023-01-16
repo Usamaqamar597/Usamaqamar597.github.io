@@ -1,0 +1,26 @@
+body{
+  background-color:#eeeeee;
+}
+
+hr{
+  border-style: none;
+border-top-style:dotted;
+border-color:grey;
+
+border-width: 3px;
+width: 4%;
+}
+h3
+{
+  color: #393e46;
+}
+h2
+{
+  color:#222831;
+  font-style: oblique;
+}
+h1
+{color:#222831;
+  font-style: oblique;
+
+}
